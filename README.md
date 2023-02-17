@@ -1,7 +1,7 @@
-# Aiffel Exploration
-### 훈련 과정 중 심화 노드
+# <p align="center"> Aiffel Exploration </p>
+### <p align="center"> 훈련 과정 중 심화 노드 </p>
 
-|순서|프로젝트 제목|루브릭 평가 지표|링크|
+|Index|프로젝트 제목|루브릭 평가 지표|링크|
 |:---:|:---:|:---:|:---:|
 |1|3가지 데이터셋을 이용한 머신러닝 (digits, wine, breast_cancer)|:star::star::star:|[Link](https://github.com/Ukbang/Exploration/blob/master/Exp_iris_01/%5BE-01%5D_iris_exploration_fin.ipynb)|
 |2|프로젝트 : 회귀분석|:star::star::star:|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-02%5D_diabetes_and_cycle_exploration.ipynb)|
